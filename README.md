@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Clayton-Acheson
-- 👀 I’m interested in Computing, Hockey, and Cello
-- 🌱 I’m currently learning Computer Engineering
-- 📫 cracheson16@gmail.com
+--Clayton Acheson--
+  RIT, Computer Engineering
+-- 
+--Personal Code Respository--
+----------Enjoy!-------------
+
